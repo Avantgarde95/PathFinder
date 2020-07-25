@@ -1,4 +1,4 @@
-#PathFinder
+# PathFinder
 
 - Simple implementation of genetic algorithm.
 
