@@ -17,4 +17,7 @@ It should reach to the blue square, touching the white squares as few as possibl
 The character will choose one of them and simulate it.
   - Press ```clear``` to clear the panel.
 
-- Required : python 2.7 (with Tkinter support)
+- Requirements
+  - Python 2.7 (Run .py file.)
+  - or Python 3.X (Run .py3 file.)
+
