@@ -21,3 +21,6 @@ The character will choose one of them and simulate it.
   - Python 2.7 (Run .py file.)
   - or Python 3.X (Run .py3 file.)
 
+- Screenshot
+![Screenshot](https://github.com/Avantgarde95/PathFinder/blob/master/Screenshot.png)
+
